@@ -36,7 +36,7 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 ```
 
 for use     
-    next,
+    masood,
     prev,
     to,
     destroy,
